@@ -6,8 +6,8 @@ pragma solidity ^0.4.24;
 // Deployed to : 0xc9Cb3F482C7fbb4C51EA08eC0fe623e5E71f64e4
 // Symbol      : TECHIEMIKE
 // Name        : techiemike Token
-// Total supply: 100000000
-// Decimals    : 18
+// Total supply: 100000000000000
+// Decimals    : 24
 //
 // Enjoy.
 //
