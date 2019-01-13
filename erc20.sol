@@ -1,7 +1,7 @@
 pragma solidity ^0.4.24;
 
 // ----------------------------------------------------------------------------
-// 'Samui' token contract
+// 'techiemike' token contract
 //
 // Deployed to : 0xc9Cb3F482C7fbb4C51EA08eC0fe623e5E71f64e4
 // Symbol      : TECHIEMIKE
