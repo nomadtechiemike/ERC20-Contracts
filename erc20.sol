@@ -7,7 +7,7 @@ pragma solidity ^0.4.24;
 // Symbol      : TECHIEMIKE
 // Name        : techiemike Token
 // Total supply: 100000000000000
-// Decimals    : 24
+// Decimals    : 18
 //
 // Enjoy.
 //
